@@ -8,5 +8,5 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
 title:		   "GRNCH.xyz"
-description: "Powered by Jekyll and GitHub Pages"
+description: "GRNCH Artist Portfolio"
 author:      "Woody Poulard"
