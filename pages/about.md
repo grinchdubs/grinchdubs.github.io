@@ -7,7 +7,7 @@ permalink: /about
 ## About Me
 
 
-![AboutMe](/assets/img/about/AboutMe.jpg)
+![AboutMe](https://raw.githubusercontent.com/grinchdubs/grnch.xyz/refs/heads/main/assets/img/about/AboutMe.jpg)
 
 Woody Poulard (aka GRNCH) is a Brooklyn-based artist/musician of Haitian descent whose work focuses on generative audio-reactive visual installations and performances. He uses creative coding applications like Touchdesigner to generate real-time visuals, Blender for 3D design, and Ableton for music production. Trained in both audio and mechanical engineering, Woody also makes physical sculptures using digital fabrication techniques like 3D printing, laser cutting, and CNC routing. GRNCH's visuals use elements of abstract, futuristic, and hypnotic scenery, often paired with his signature sound: dark, cinematic, suspenseful techno and broken beat.
 
