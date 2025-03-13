@@ -1,0 +1,61 @@
+#-------------------------------
+# General Site Settings
+
+menu:
+- {name: 'Works', url: ''}
+- {name: 'About',    url: 'about'}
+#- {name: 'Blog',     url: 'blog'}
+- {name: 'Music',    url: 'music'}
+- {name: 'Contact',  url: 'contact'}
+
+
+#-------------------------------
+# Projects Section
+
+projects:
+- {name: 'Genuary 2024',   url: 'genuary'}
+- {name: 'Generative Art',   url: 'genart'}
+- {name: 'Pen Plotting',   url: 'plotting'}
+- {name: 'LEDs', url: 'leds'}
+- {name: 'Textures',  url: 'textures'}
+- {name: 'Projection Mapping',  url: 'mapping'}
+- {name: 'Digital Art',  url: 'digital'}
+- {name: 'Music',  url: 'music'}
+
+#-------------------------------
+# Contact Section
+
+social:
+- {icon: 'instagram', link: 'https://instagram.com/grnchdubs'}
+- {icon: 'github',    link: 'https://github.com/grnchdubs'}
+- {icon: 'twitter',   link: 'https://twitter.com/grnchdubs'}
+- {icon: 'linkedin',  link: 'https://linktr.ee/grnch'}
+- {icon: 'envelope',  link: 'mailto:grnch@grnch.xyz'}
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'GRNCH Portfolio powered by Jekyll and GitHub Pages '
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+#google-analytics-ua: 'UA-112060364-3'
+
+#-------------------------------
+# Disqus Section
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
