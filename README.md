@@ -1,3 +1,3 @@
 # GRNCH.xyz 
 
-My personal artist profile
+My Audio/Visual artist profile
