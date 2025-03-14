@@ -2,7 +2,7 @@
 layout: post
 ---
 # Genuary 2024
-![Genuary 2024](https://img.notionusercontent.com/s3/prod-files-secure%2F63319eb7-a808-4f94-8661-5626ea6a3328%2F44de6f28-6121-4787-be72-8a2a64bf5ede%2Fgenuary.png/size/w=1790?exp=1741917102&sig=GnWoBSeZ0gvDTpk1b0Ade4eOKASgx3TrvWpo6EGo3aE)
+![Genuary 2024](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/refs/heads/main/genuary2024.png)
 [Genuary 2024 Prompts](https://genuary.art/2024)
 
 Genuary 2024 by GRNCH
