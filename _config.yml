@@ -2,11 +2,15 @@
 
 port: 8080
 markdown:  kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 permalink: /:title
 plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
 title:		   "GRNCH.xyz"
+tagline:     "Creator of Things"
 description: "GRNCH Audio/Visual Artist Portfolio"
 author:      "Woody Poulard"
