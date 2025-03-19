@@ -2,9 +2,6 @@
 
 port: 8080
 markdown:  kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
 permalink: /:title
 plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
