@@ -4,7 +4,7 @@
 menu:
 - {name: 'Works', url: ''}
 - {name: 'About',    url: 'about'}
-#- {name: 'Blog',     url: 'blog'}
+- {name: 'Blog',     url: 'blog'}
 - {name: 'Music',    url: 'music'}
 - {name: 'Contact',  url: 'contact'}
 
