@@ -11,15 +11,21 @@ Commands needed for setup:
 
 `curl -sL portal.spatiumportae.com | sudo bash`
 
+Install on linux with the command above. [Documentation](https://github.com/SpatiumPortae/portal)
+
 #### SSHS, ssh manager
 Commands needed for setup:
 
 `cargo install --git https://github.com/quantumsheep/sshs`
 
+Install on linux with the command above.  You will need to setup a .ssh/config file for this to work. [Documentation](https://github.com/quantumsheep/sshs?tab=readme-ov-file)
+
 #### Yazi, CLI file explorer
 Commands needed for setup:
 
 `cargo install --locked yazi-fm yazi-cli`
+
+Install on linux with the command above. [Documentation ](https://yazi-rs.github.io/docs/installation)
 
 #### Zoxide for a better cd
 For faster and fuzzy cd usage:
@@ -27,17 +33,21 @@ For faster and fuzzy cd usage:
 
 `curl -sSfL https://raw.githubusercontent.com/ajeetdsouza/zoxide/main/install.sh | sh`
 
+Install on linux with the command above. You then need to add it to your shell config which you can find on the [github](https://github.com/ajeetdsouza/zoxide) page.
+
 #### Atuin for better command history
 Super helpful command history with timestamps and search:
 ![](https://img.notionusercontent.com/s3/prod-files-secure%2F63319eb7-a808-4f94-8661-5626ea6a3328%2F3022c4c1-e4ca-4258-84d0-49f67c9bbde5%2F20240624_00h38m12s_grim.png/size/w=1350?exp=1742616201&sig=nboNQybJnF2I2BABE9pleuUpSUtNnoelYVHCSwzAlNQ)
 
 `curl --proto '=https' --tlsv1.2 -LsSf https://setup.atuin.sh | sh`
 
+Install with the command above and add to your shell similar to how we did with zoxide. Details [here](https://docs.atuin.sh/guide/installation/)
+
 #### Eza for a better ls
 This ls tool gives outputs that are a bit more useful:
 ![](https://img.notionusercontent.com/s3/prod-files-secure%2F63319eb7-a808-4f94-8661-5626ea6a3328%2Ff55f3270-e63c-4599-b66e-8f8ae9f01a31%2F20240701_18h36m41s_grim.png/size/w=1350?exp=1742616205&sig=EzUy1MgWksheu1mMRM4wYG_sZq9bFl5Wwrs28n33RIc)
 
-To install/setup follow this link to the install instructions. It can be installed in a variety of ways.
+To install/setup follow this [link](https://github.com/eza-community/eza/blob/main/INSTALL.md) to the install instructions. It can be installed in a variety of ways.
 
 #### Tl:dr better man pages
 This tool is if you want to get the main info from a man page without reading the whole thing:
@@ -45,9 +55,13 @@ This tool is if you want to get the main info from a man page without reading th
 
 `pip3 install tldr`
 
+To install/setup follow this [link](https://github.com/eza-community/eza/blob/main/INSTALL.md) to the install instructions. It can be installed in a variety of ways.
+
 #### Fzf/zi for better find/search
 Super powerful fuzzy search tool:
 ![](https://img.notionusercontent.com/s3/prod-files-secure%2F63319eb7-a808-4f94-8661-5626ea6a3328%2Fd1321568-96ce-4a4c-8923-cdf16d470571%2F20240624_00h30m22s_grim(1).png/size/w=1350?exp=1742616236&sig=nOgC6sCZDSKrH_h4Y7HTiBSrMXxixi2VtK8pKEXdw98)
+
+To install/setup follow this [link](https://github.com/junegunn/fzf?tab=readme-ov-file#installation) to the install instructions. It can be installed on a bunch of different OSes.
 
 `sudo pacman -S fzf #For Arch based systems`
 
@@ -57,7 +71,7 @@ Super powerful fuzzy search tool:
 Name says it all:
 ![](https://img.notionusercontent.com/s3/prod-files-secure%2F63319eb7-a808-4f94-8661-5626ea6a3328%2Fd1321568-96ce-4a4c-8923-cdf16d470571%2F20240624_00h30m22s_grim(1).png/size/w=1350?exp=1742616236&sig=nOgC6sCZDSKrH_h4Y7HTiBSrMXxixi2VtK8pKEXdw98)
 
-`Install docs are here.`
+`Install docs are [here](https://github.com/PatrickF1/fzf.fish/tree/main).`
 
 	Search Directory - Ctrl+Alt+f (F for file)
 
@@ -96,6 +110,8 @@ Allows for multiple sessions in 1 terminal window:
 `or`
 
 `sudo pacman -S screen`
+
+[Here](https://gist.github.com/joaopizani/2718397) is my script for installing most of this stuff on a Debian based distro…I used this on Kali Linux
 
 #### Localsend for local file sharing
 Very similar to airdrop but available on all OSes:
