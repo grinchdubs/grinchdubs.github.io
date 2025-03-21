@@ -6,7 +6,7 @@ layout: post
 
 Here are some more modern tools for linux cli. Most of them replace command you already know. Use aliases to use the old command so it doesn't get annoying. I use these on Debian and Arch based distros but these should also work with others.
 
-Portal, CLI file transfer
+## Portal, CLI file transfer
 Commands needed for setup:
 
 `curl -sL portal.spatiumportae.com | sudo bash`
