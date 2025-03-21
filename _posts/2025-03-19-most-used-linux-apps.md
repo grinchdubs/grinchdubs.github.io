@@ -34,7 +34,7 @@ Super helpful command history with timestamps and search:
 `curl --proto '=https' --tlsv1.2 -LsSf https://setup.atuin.sh | sh`
 
 #### Eza for a better ls
-This ls tool gives outputs that are a bit more useful
+This ls tool gives outputs that are a bit more useful:
 ![](https://img.notionusercontent.com/s3/prod-files-secure%2F63319eb7-a808-4f94-8661-5626ea6a3328%2Ff55f3270-e63c-4599-b66e-8f8ae9f01a31%2F20240701_18h36m41s_grim.png/size/w=1350?exp=1742616205&sig=EzUy1MgWksheu1mMRM4wYG_sZq9bFl5Wwrs28n33RIc)
 
 To install/setup follow this link to the install instructions. It can be installed in a variety of ways.
@@ -54,7 +54,7 @@ Super powerful fuzzy search tool:
 `sudo apt install fzf #for debian based systems`
 
 #### Fzf.fish fzf for fish
-Name says it all
+Name says it all:
 ![](https://img.notionusercontent.com/s3/prod-files-secure%2F63319eb7-a808-4f94-8661-5626ea6a3328%2Fd1321568-96ce-4a4c-8923-cdf16d470571%2F20240624_00h30m22s_grim(1).png/size/w=1350?exp=1742616236&sig=nOgC6sCZDSKrH_h4Y7HTiBSrMXxixi2VtK8pKEXdw98)
 
 `Install docs are here.`
@@ -116,7 +116,7 @@ Commands needed for setup:
 
 `echo /usr/local/bin/fish | sudo tee -a /etc/shells`
 
-`chsh -s /usr/local/bin/fish`
+	chsh -s /usr/local/bin/fish`
 
 #### Firacode Nerd font Mono for nice terminal icons
 ![](https://img.notionusercontent.com/s3/prod-files-secure%2F63319eb7-a808-4f94-8661-5626ea6a3328%2F25b57304-90e9-4961-84c7-8eca31c5af47%2FScreenshot_2024-07-03_at_11.59.57_AM.png/size/w=970?exp=1742616240&sig=k57rdVGLGoo-s2itbi2uCbTnL5NBwj1Z3za7TNl8598)
