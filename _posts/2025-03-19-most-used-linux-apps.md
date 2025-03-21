@@ -49,8 +49,9 @@ This tool is if you want to get the main info from a man page without reading th
 Super powerful fuzzy search tool:
 ![](https://img.notionusercontent.com/s3/prod-files-secure%2F63319eb7-a808-4f94-8661-5626ea6a3328%2Fd1321568-96ce-4a4c-8923-cdf16d470571%2F20240624_00h30m22s_grim(1).png/size/w=1350?exp=1742616236&sig=nOgC6sCZDSKrH_h4Y7HTiBSrMXxixi2VtK8pKEXdw98)
 
-`sudo pacman -S fzf #For Arch based systems
-	sudo apt install fzf #for debian based systems`
+`sudo pacman -S fzf #For Arch based systems`
+
+`sudo apt install fzf #for debian based systems`
 
 #### Fzf.fish fzf for fish
 Name says it all:
@@ -90,9 +91,11 @@ Follow the fzf.fish install above
 Allows for multiple sessions in 1 terminal window:
 ![](https://img.notionusercontent.com/s3/prod-files-secure%2F63319eb7-a808-4f94-8661-5626ea6a3328%2F2072b876-5018-4c8c-b8c8-7f159a2a0335%2F20240702_10h51m33s_grim.png/size/w=1350?exp=1742616241&sig=PaC-90OodSQhGfc-dsCmZK5NIn_VhV0UdEg6INPniKw)
 
-`sudo apt install screen
-	or
-	sudo pacman -S screen`
+`sudo apt install screen`
+
+`or`
+
+`sudo pacman -S screen`
 
 #### Localsend for local file sharing
 Very similar to airdrop but available on all OSes:
