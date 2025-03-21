@@ -63,17 +63,20 @@ Super powerful fuzzy search tool:
 
 To install/setup follow this [link](https://github.com/junegunn/fzf?tab=readme-ov-file#installation) to the install instructions. It can be installed on a bunch of different OSes.
 
-`sudo pacman -S fzf #For Arch based systems`
+```
+sudo pacman -S fzf #For Arch based systems
 
-`sudo apt install fzf #for debian based systems`
+sudo apt install fzf #for debian based systems
+```
 
 #### Fzf.fish fzf for fish
 Name says it all:
 ![](https://img.notionusercontent.com/s3/prod-files-secure%2F63319eb7-a808-4f94-8661-5626ea6a3328%2Fd1321568-96ce-4a4c-8923-cdf16d470571%2F20240624_00h30m22s_grim(1).png/size/w=1350?exp=1742616236&sig=nOgC6sCZDSKrH_h4Y7HTiBSrMXxixi2VtK8pKEXdw98)
 
 Install docs are [here](https://github.com/PatrickF1/fzf.fish/tree/main).
-
-	`Search Directory - Ctrl+Alt+f (F for file)
+Some quick Keycommands:
+```
+	Search Directory - Ctrl+Alt+f (F for file)
 
 	Search Git Status - Ctrl+Alt+s (S for status)
 
@@ -84,16 +87,19 @@ Install docs are [here](https://github.com/PatrickF1/fzf.fish/tree/main).
 	Search Processes - Ctrl+Alt+p (P for process)
 
 	Search Variables - Ctrl+Alt+v (V for Variable)
+```
 
 #### Bat for a better cat command
 More useful output than the normal cat command:
 ![](https://img.notionusercontent.com/s3/prod-files-secure%2F63319eb7-a808-4f94-8661-5626ea6a3328%2F45e04a32-443c-420b-be90-fc0e89d07ca3%2F20240624_00h38m43s_grim(1).png/size/w=1350?exp=1742616242&sig=lxrV5PfTGQNicMNk6sY8TssfZi-NI3NdnbOGu3ZOCnc)
 
-`sudo apt install bat #For debian based systems`
+```
+sudo apt install bat #For debian based systems
 
-`or`
+or
 
-`pacman -S bat #For Arch based systems`
+pacman -S bat #For Arch based systems
+```
 
 #### Bat preview
 This works along side fzf.fish to give you a preview of files while you search for the correct one
@@ -117,12 +123,13 @@ sudo pacman -S screen
 Very similar to airdrop but available on all OSes:
 ![](https://img.notionusercontent.com/s3/prod-files-secure%2F63319eb7-a808-4f94-8661-5626ea6a3328%2F5b029718-dbc2-46ee-bdc7-be0bca7546e8%2F20240701_19h07m29s_grim.png/size/w=1350?exp=1742616241&sig=HN39tB56GKRffYKUhrwimrfSKlizmpDffi-6lGHy41I)
 
-`flatpak install flathub org.localsend.localsend_app #For flatpak package manager
-	or
-	sudo snap install localsend #For snap package manager
-	or
-	yay -S localsend-bin #For Arch based systems`
-
+```
+flatpak install flathub org.localsend.localsend_app #For flatpak package manager
+or
+sudo snap install localsend #For snap package manager
+or
+yay -S localsend-bin #For Arch based systems
+```
 #### Fish, my favorite shell
 Commands needed for setup:
 
