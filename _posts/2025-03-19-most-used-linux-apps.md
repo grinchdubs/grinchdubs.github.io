@@ -105,11 +105,11 @@ Follow the fzf.fish install above
 Allows for multiple sessions in 1 terminal window:
 ![](https://img.notionusercontent.com/s3/prod-files-secure%2F63319eb7-a808-4f94-8661-5626ea6a3328%2F2072b876-5018-4c8c-b8c8-7f159a2a0335%2F20240702_10h51m33s_grim.png/size/w=1350?exp=1742616241&sig=PaC-90OodSQhGfc-dsCmZK5NIn_VhV0UdEg6INPniKw)
 
-`sudo apt install screen`
-
-`or`
-
-`sudo pacman -S screen`
+```
+sudo apt install screen
+or
+sudo pacman -S screen
+```
 
 [Here](https://gist.github.com/joaopizani/2718397) is my script for installing most of this stuff on a Debian based distro…I used this on Kali Linux
 
