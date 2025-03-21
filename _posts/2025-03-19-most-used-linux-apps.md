@@ -50,7 +50,6 @@ Super powerful fuzzy search tool:
 ![](https://img.notionusercontent.com/s3/prod-files-secure%2F63319eb7-a808-4f94-8661-5626ea6a3328%2Fd1321568-96ce-4a4c-8923-cdf16d470571%2F20240624_00h30m22s_grim(1).png/size/w=1350?exp=1742616236&sig=nOgC6sCZDSKrH_h4Y7HTiBSrMXxixi2VtK8pKEXdw98)
 
 `sudo pacman -S fzf #For Arch based systems`
-
 `sudo apt install fzf #for debian based systems`
 
 #### Fzf.fish fzf for fish
