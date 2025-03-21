@@ -1,5 +1,4 @@
 ---
-title: Most Used Linux Apps
 layout: post
 ---
 
@@ -9,22 +8,27 @@ Here are some more modern tools for linux cli. Most of them replace command you 
 
 Portal, CLI file transfer
 Commands needed for setup:
+
 `curl -sL portal.spatiumportae.com | sudo bash`
 
 SSHS, ssh manager
 Commands needed for setup:
+
 `cargo install --git https://github.com/quantumsheep/sshs`
 
 Yazi, CLI file explorer
 Commands needed for setup:
+
 `cargo install --locked yazi-fm yazi-cli`
 
 Zoxide for a better cd
-For faster and fuzzy cd usage
+For faster and fuzzy cd usage:
+
 `curl -sSfL https://raw.githubusercontent.com/ajeetdsouza/zoxide/main/install.sh | sh`
 
 Atuin for better command history
-Super helpful command history with timestamps and search
+Super helpful command history with timestamps and search:
+
 `curl --proto '=https' --tlsv1.2 -LsSf https://setup.atuin.sh | sh`
 
 Eza for a better ls
@@ -32,11 +36,13 @@ This ls tool gives outputs that are a bit more useful
 To install/setup follow this link to the install instructions. It can be installed in a variety of ways.
 
 Tl:dr better man pages
-This tool is if you want to get the main info from a man page without reading the whole thing.
+This tool is if you want to get the main info from a man page without reading the whole thing:
+
 `pip3 install tldr`
 
 Fzf/zi for better find/search
-Super powerful fuzzy search tool
+Super powerful fuzzy search tool:
+
 `sudo pacman -S fzf #For Arch based systems
 sudo apt install fzf #for debian based systems`
 
@@ -51,7 +57,8 @@ Search Processes - Ctrl+Alt+p (P for process)
 Search Variables - Ctrl+Alt+v (V for Variable)
 
 Bat for a better cat command
-More useful output than the normal cat command
+More useful output than the normal cat command:
+
 `sudo apt install bat #For debian based systems
 or
 pacman -S bat #For Arch based systems`
@@ -61,13 +68,15 @@ This works along side fzf.fish to give you a preview of files while you search f
 Follow the fzf.fish install above
 
 Screen for more terminal sessions
-Allows for multiple sessions in 1 terminal window
+Allows for multiple sessions in 1 terminal window:
+
 `sudo apt install screen
 or
 sudo pacman -S screen`
 
 Localsend for local file sharing
-Very similar to airdrop but available on all OSes
+Very similar to airdrop but available on all OSes:
+
 `flatpak install flathub org.localsend.localsend_app #For flatpak package manager
 or
 sudo snap install localsend #For snap package manager
@@ -75,7 +84,8 @@ or
 yay -S localsend-bin #For Arch based systems`
 
 Fish, my favorite shell
-Commands needed for setup
+Commands needed for setup:
+
 `echo /usr/local/bin/fish | sudo tee -a /etc/shells
 chsh -s /usr/local/bin/fish`
 
