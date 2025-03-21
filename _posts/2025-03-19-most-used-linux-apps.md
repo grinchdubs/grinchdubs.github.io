@@ -8,6 +8,7 @@ Here are some more modern tools for linux cli. Most of them replace command you 
 
 #### Portal, CLI file transfer
 Commands needed for setup:
+![](https://raw.githubusercontent.com/SpatiumPortae/portal/refs/heads/master/assets/demo.gif)
 
 `curl -sL portal.spatiumportae.com | sudo bash`
 
@@ -15,6 +16,7 @@ Install on linux with the command above. [Documentation](https://github.com/Spat
 
 #### SSHS, ssh manager
 Commands needed for setup:
+![](https://asciinema.org/a/642202)
 
 `cargo install --git https://github.com/quantumsheep/sshs`
 
