@@ -65,7 +65,6 @@ To install/setup follow this [link](https://github.com/junegunn/fzf?tab=readme-o
 
 ```
 sudo pacman -S fzf #For Arch based systems
-
 sudo apt install fzf #for debian based systems
 ```
 
@@ -76,17 +75,12 @@ Name says it all:
 Install docs are [here](https://github.com/PatrickF1/fzf.fish/tree/main).
 Some quick Keycommands:
 ```
-	Search Directory - Ctrl+Alt+f (F for file)
-
-	Search Git Status - Ctrl+Alt+s (S for status)
-
-	Search Git Log - Ctrl+Alt+l (L for Log)
-
-	Search History -  Ctrl+r (R for reverse-i-search)
-
-	Search Processes - Ctrl+Alt+p (P for process)
-
-	Search Variables - Ctrl+Alt+v (V for Variable)
+Search Directory - Ctrl+Alt+f (F for file)
+Search Git Status - Ctrl+Alt+s (S for status)
+Search Git Log - Ctrl+Alt+l (L for Log)
+Search History -  Ctrl+r (R for reverse-i-search)
+Search Processes - Ctrl+Alt+p (P for process)
+Search Variables - Ctrl+Alt+v (V for Variable)
 ```
 
 #### Bat for a better cat command
@@ -95,9 +89,7 @@ More useful output than the normal cat command:
 
 ```
 sudo apt install bat #For debian based systems
-
 or
-
 pacman -S bat #For Arch based systems
 ```
 
