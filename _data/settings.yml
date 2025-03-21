@@ -5,6 +5,7 @@ menu:
 - {name: 'Works', url: ''}
 - {name: 'About',    url: 'about'}
 - {name: 'Blog',     url: 'blog'}
+- {name: 'GLSL',     url: 'grnchGLSL'}
 - {name: 'Music',    url: 'music'}
 - {name: 'Contact',  url: 'contact'}
 
