@@ -122,9 +122,8 @@ Commands needed for setup:
 ![](https://img.notionusercontent.com/s3/prod-files-secure%2F63319eb7-a808-4f94-8661-5626ea6a3328%2F25b57304-90e9-4961-84c7-8eca31c5af47%2FScreenshot_2024-07-03_at_11.59.57_AM.png/size/w=970?exp=1742616240&sig=k57rdVGLGoo-s2itbi2uCbTnL5NBwj1Z3za7TNl8598)
 This font has a bunch of symbols that are nice to have.
 
-<details open>
-<summary>Chezmoi .dotfile backup to github</summary>
+#### Chezmoi .dotfile backup to github
 A cli app for keep track of your .dotfiles changes and uploading to github
 The install for this can be very involved and requires a bit of git knowledge. Install docs are here.
 Here is my script for installing most of this stuff on a Debian based distro…I used this on Kali Linux
-</details>
+
