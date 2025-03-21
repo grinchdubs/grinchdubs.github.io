@@ -71,9 +71,9 @@ To install/setup follow this [link](https://github.com/junegunn/fzf?tab=readme-o
 Name says it all:
 ![](https://img.notionusercontent.com/s3/prod-files-secure%2F63319eb7-a808-4f94-8661-5626ea6a3328%2Fd1321568-96ce-4a4c-8923-cdf16d470571%2F20240624_00h30m22s_grim(1).png/size/w=1350?exp=1742616236&sig=nOgC6sCZDSKrH_h4Y7HTiBSrMXxixi2VtK8pKEXdw98)
 
-`Install docs are [here](https://github.com/PatrickF1/fzf.fish/tree/main).`
+Install docs are [here](https://github.com/PatrickF1/fzf.fish/tree/main).
 
-	Search Directory - Ctrl+Alt+f (F for file)
+	`Search Directory - Ctrl+Alt+f (F for file)
 
 	Search Git Status - Ctrl+Alt+s (S for status)
 
@@ -132,10 +132,11 @@ Commands needed for setup:
 
 #### Firacode Nerd font Mono for nice terminal icons
 ![](https://img.notionusercontent.com/s3/prod-files-secure%2F63319eb7-a808-4f94-8661-5626ea6a3328%2F25b57304-90e9-4961-84c7-8eca31c5af47%2FScreenshot_2024-07-03_at_11.59.57_AM.png/size/w=970?exp=1742616240&sig=k57rdVGLGoo-s2itbi2uCbTnL5NBwj1Z3za7TNl8598)
-This font has a bunch of symbols that are nice to have.
+This [font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/FiraMono.zip) has a bunch of symbols that are nice to have.
 
 #### Chezmoi .dotfile backup to github
 A cli app for keep track of your .dotfiles changes and uploading to github
+
 The install for this can be very involved and requires a bit of git knowledge. Install docs are here.
-Here is my script for installing most of this stuff on a Debian based distro…I used this on Kali Linux
+[Here](https://github.com/grinchdubs/scripts/blob/main/base_installs.sh) is my script for installing most of this stuff on a Debian based distro…I used this on Kali Linux
 
