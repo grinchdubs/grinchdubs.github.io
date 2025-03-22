@@ -1,7 +1,3 @@
----
-layout: post
----
-
 # Most Used Linux Apps
 
 Here are some more modern tools for linux cli. Most of them replace command you already know. Use aliases to use the old command so it doesn't get annoying. I use these on Debian and Arch based distros but these should also work with others.
