@@ -1,5 +1,6 @@
-# Most Used Linux Apps
-
+---
+layout: post
+---
 Here are some more modern tools for linux cli. Most of them replace command you already know. Use aliases to use the old command so it doesn't get annoying. I use these on Debian and Arch based distros but these should also work with others.
 
 #### Portal, CLI file transfer
@@ -135,5 +136,7 @@ This [font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Fir
 A cli app for keep track of your .dotfiles changes and uploading to github
 
 The install for this can be very involved and requires a bit of git knowledge. Install docs are here.
+
+
 [Here](https://github.com/grinchdubs/scripts/blob/main/base_installs.sh) is my script for installing most of this stuff on a Debian based distro…I used this on Kali Linux
 
