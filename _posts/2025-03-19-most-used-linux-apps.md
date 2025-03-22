@@ -13,7 +13,7 @@ Install on linux with the command above. [Documentation](https://github.com/Spat
 
 #### SSHS, ssh manager
 Commands needed for setup:
-![](https://asciinema.org/a/642202)
+[![asciicast](https://asciinema.org/a/642202.svg)](https://asciinema.org/a/642202)
 
 `cargo install --git https://github.com/quantumsheep/sshs`
 
