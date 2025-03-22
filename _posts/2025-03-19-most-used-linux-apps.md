@@ -133,8 +133,8 @@ Commands needed for setup:
 This [font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/FiraMono.zip) has a bunch of symbols that are nice to have.
 
 #### Chezmoi .dotfile backup to github
-A cli app for keep track of your .dotfiles changes and uploading to github
-
+A cli app for keep track of your .dotfiles changes and uploading to github.
+![](https://img.notionusercontent.com/s3/prod-files-secure%2F63319eb7-a808-4f94-8661-5626ea6a3328%2F93a1828e-7097-47fa-bcf5-7b77253be955%2F20240624_00h27m14s_grim.png/size/w=1360?exp=1742691479&sig=3OZPdNiINcs4urUeP3I9M_MJ2MuRgfooqopyR5ZejYA)
 The install for this can be very involved and requires a bit of git knowledge. Install docs are here.
 
 
