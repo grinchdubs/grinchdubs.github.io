@@ -2,8 +2,6 @@
 layout: post
 ---
 
-# Music
-
 Here you can find some of my music released on [Bandcamp](https://grnch.bandcamp.com/) and [Spotify](https://open.spotify.com/artist/1R4wlaAZtsXhCjCWHLRUui?si=BZNlOifqQmWUKKcxmiO0-Q)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/1R4wlaAZtsXhCjCWHLRUui?utm_source=generator" width="60%" height="555" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
