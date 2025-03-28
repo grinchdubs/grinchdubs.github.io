@@ -1,8 +1,7 @@
 ---
 layout: post
 ---
-# Genuary 2024
-![Genuary 2024](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/refs/heads/main/genuary2024.png)
+![Genuary 2024](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/refs/heads/main/genuary2024.png\)
 [Genuary 2024 Prompts](https://genuary.art/2024)
 
 Genuary 2024 by GRNCH

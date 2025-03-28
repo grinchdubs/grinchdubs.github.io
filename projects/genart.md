@@ -1,7 +1,6 @@
 ---
 layout: post
 ---
-# Generative Art
 
 <iframe width="100%" height="100%" src="https://oncyber.io/grnch"></iframe>
 
