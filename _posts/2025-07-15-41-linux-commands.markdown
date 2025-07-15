@@ -20,17 +20,17 @@ glances – Real-time system monitoring dashboard.
 #### 🔧New Apps from the video:
 NCDU – Interactive disk usage analyzer.
 
-Duf – Prettier version of df.
+duf – Prettier version of df.
 
-RipGrep (rg) – Fast, powerful search tool.
+ripGrep (rg) – Fast, powerful search tool.
 
-Mosh – SSH alternative with roaming support.
+mosh – SSH alternative with roaming support.
 
 lshw – View detailed hardware info.
 
 MTR – Combines ping and traceroute, real-time network diagnostics.
 
-Ranger – Terminal-based file manager. - Crashing in nix womp );
+ranger – Terminal-based file manager. - Crashing in nix womp );
 
 iotop – Disk I/O monitoring.
 
@@ -56,7 +56,7 @@ systemd-analyze – Diagnose slow boot times.
 
 procs – Modern alternative to ps.
 
-LazyDocker – TUI for Docker management.
+lazyDocker – TUI for Docker management.
 
 rsync – Smart file syncing.
 
@@ -68,7 +68,7 @@ unp – Automatically unpacks any archive.
 
 jq – Query and manipulate JSON in CLI.
 
-TaskWarrior – CLI-based task manager.
+taskWarrior – CLI-based task manager.
 
 asciinema – Record and share terminal sessions.
 
