@@ -4,19 +4,19 @@ layout: post
 ---
 Here are 41 even more modern tools for linux cli. Most of them replace command you already know. Use aliases to use the old command so it doesn't get annoying. I use these on Debian and Arch based distros but these should also work with others.
 
-41 Linux commands to learn/use
+#### 41 Linux commands to learn/use
 The video is a fast-paced and energetic showcase of 37 powerful and lesser-known Linux terminal commands, designed to boost productivity, system monitoring, troubleshooting, and development. Here's a summary of the key points:
-🔧 Cool & Useful Linux Commands Featured:
+#### 🔧 Cool & Useful Linux Commands Featured:
 
 
-Apps that were on the prior list:
+#### Apps that were on the prior list:
 fd – Better alternative to find, with smart defaults.
 fzf – FuzzyFinder for interactive command filtering.
 zoxide (Z) – Smarter, context-aware cd.
 exa – Enhanced ls with colors, tree view, icons.
 glances – Real-time system monitoring dashboard.
 
-New Apps from the video:
+#### New Apps from the video:
 NCDU – Interactive disk usage analyzer.
 Duf – Prettier version of df.
 RipGrep (rg) – Fast, powerful search tool.
@@ -51,11 +51,11 @@ VIP – Edit command pipeline output in a text editor.
 Error handling tools – Like errno, ifdata.
 
 
-🧠 AI Integration in the Terminal:
+#### 🧠 AI Integration in the Terminal:
 Tools like Fabric and Olama integrate AI into the CLI for generating, summarizing, or explaining commands.
 Example: Ask AI to analyze logs or summarize most-used commands.
 
 
-💡 Overall Takeaway:
+#### 💡 Overall Takeaway:
 The video emphasizes turning your Linux terminal into a superpowered productivity hub through visual tools, AI integration, better replacements for classic commands, and advanced system monitoring. Perfect for devs, sysadmins, and power users.
 Final Note: The creator encourages viewers to comment their favorite commands and "ethically hack" the YouTube algorithm by liking, subscribing, and engaging.
