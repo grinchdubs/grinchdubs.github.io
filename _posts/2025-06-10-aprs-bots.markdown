@@ -6,17 +6,31 @@ Here are some APRS Bots that I have discovered over the past couple months. I ha
 
 #### MAIL
 #### APSPOT
+
 #### WTSAPP
+
 #### APRSPH
+
 #### MPAD
+
 #### WXYO
+
 #### WXBOT
+
 #### 9M2PJU APRS Bot
+
 #### SMS
+
 #### FIND
+
 #### WHO-IS
+
 #### SATBOT
+
 #### REPEAT
+
 #### ISS
+
 #### CQSRVR
+
 #### EMAIL
