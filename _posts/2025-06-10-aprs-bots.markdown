@@ -1,0 +1,6 @@
+---
+title: APRS bots
+layout: post
+---
+Here are some APRS Bots that I have discovered over the past couple months. I have tested them all and they should work if you are within reach of a digipeater/igate.
+
