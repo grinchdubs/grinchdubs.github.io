@@ -2,10 +2,7 @@
 title: 41 Linux Commands
 layout: post
 ---
-Here are 41 even more modern, powerful and lesser-known Linux terminal commands, designed to boost productivity, system monitoring, troubleshooting, and development for linux cli. Most of them replace command you already know. Use aliases to use the old command so it doesn't get annoying. I use these on Nix, Debian and Arch based distros but these should also work with others.
-
-## 🔧 Cool & Useful Linux Commands Featured:
-
+Here are 41 even more modern, powerful and lesser-known Linux terminal commands, designed to boost productivity, system monitoring, troubleshooting, and development for linux cli. Most of them replace command you already know. Use aliases to use the old command so it doesn't get annoying. I use these on Nix, Debian and Arch based distros but these should also work with others. These were found from ![this](https://www.youtube.com/watch?v=6P-vjgPx9ww) video by NetworkChuck.
 
 #### Apps that were on the prior list:
 fd – Better alternative to find, with smart defaults.
