@@ -8,18 +8,22 @@ Here are 41 even more modern tools for linux cli. Most of them replace command y
 The video is a fast-paced and energetic showcase of 37 powerful and lesser-known Linux terminal commands, designed to boost productivity, system monitoring, troubleshooting, and development. Here's a summary of the key points:
 🔧 Cool & Useful Linux Commands Featured:
 
+
+Apps that were on the prior list:
+fd – Better alternative to find, with smart defaults.
+fzf – FuzzyFinder for interactive command filtering.
+zoxide (Z) – Smarter, context-aware cd.
+exa – Enhanced ls with colors, tree view, icons.
+glances – Real-time system monitoring dashboard.
+
+New Apps from the video:
 NCDU – Interactive disk usage analyzer.
 Duf – Prettier version of df.
 RipGrep (rg) – Fast, powerful search tool.
 Mosh – SSH alternative with roaming support.
 lshw – View detailed hardware info.
 MTR – Combines ping and traceroute, real-time network diagnostics.
-fd – Better alternative to find, with smart defaults.
-fzf – FuzzyFinder for interactive command filtering.
 Ranger – Terminal-based file manager. - Crashing in nix womp );
-zoxide (Z) – Smarter, context-aware cd.
-exa – Enhanced ls with colors, tree view, icons.
-glances – Real-time system monitoring dashboard.
 iotop – Disk I/O monitoring.
 stat – Detailed file info.
 dstat – Combines vmstat, iostat, netstat, etc.
