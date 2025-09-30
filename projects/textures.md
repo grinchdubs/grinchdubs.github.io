@@ -6,7 +6,7 @@ title: 'Beyond Textures Collection'
 The progression of acrylic on machine carved wood panel sculptures by GRNCH
 
 
-![IMG_0985-scaled.jpg](https://github.com/grinchdubs/grnch.xyz_photos/blob/main/Textures_Website/IMG_0944-scaled.jpg)
+![IMG_0985-scaled.jpg](https://github.com/grinchdubs/grnch.xyz_photos/blob/main/Textures_Website/IMG_0985-scaled.jpg)
 
 ![IMG_1061-scaled.jpg](https://github.com/grinchdubs/grnch.xyz_photos/blob/main/Textures_Website/IMG_1061-scaled.jpg)
 
