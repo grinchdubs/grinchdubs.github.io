@@ -11,48 +11,29 @@ A comprehensive guide to using various APRS bots for amateur radio communication
 
 Welcome to the MAIL APRS bot! Below you'll find simple instructions on how to use the bot for messaging, group management, and other helpful features.
 
-**Send a Message to a User**
-
-To send a message directly to another user, type:
-
-`@CALLSIGN followed by your message`
-
+**Send a Message to a User**  
+To send a message directly to another user, type: `@CALLSIGN followed by your message`  
 Example: `@N0CALL Hey there! How's it going?`
 
-**Check Your Messages**
-
+**Check Your Messages**  
 To check your incoming messages, simply type: `APRSM`
 
-The bot will fetch your latest messages.
-
-**Delete Your Messages**
-
+**Delete Your Messages**  
 To delete messages that you haven't ack'd, simply type: `del`
 
-**Automatically Retrieve Messages**
+**Automatically Retrieve Messages**  
+If you're actively using APRS and want to automatically retrieve messages while on the air, include one of the following in your comment beacon: `APMAIL` or `ALLMSG`
 
-If you're actively using APRS and want to automatically retrieve messages while on the air, include one of the following in your comment beacon:
-- `APMAIL`
-- `ALLMSG`
-
-The bot will monitor your beacons and send your messages as they come in.
-
-**Join a Group**
-
-To join a group, use the following command: `join group_name`
-
+**Join a Group**  
+To join a group, use the command: `join group_name`  
 Example: `join bigfoot`
 
-**Leave a Group**
-
-If you want to leave a group, simply type: `unjoin group_name`
-
+**Leave a Group**  
+If you want to leave a group, simply type: `unjoin group_name`  
 Example: `unjoin bigfoot`
 
-**Send a Message to a Group**
-
-To send a message to all users in a group, type: `#group_name followed by your message`
-
+**Send a Message to a Group**  
+To send a message to all users in a group, type: `#group_name followed by your message`  
 Example: `#bigfoot Let's organize the next meetup!`
 
 **Additional Tips**
@@ -69,31 +50,22 @@ Example: `#bigfoot Let's organize the next meetup!`
 APSPOT supports a number of commands for getting and posting activity spots. To get started, send a message "usage" to APSPOT on APRS.
 
 **The Commands**
-
 - `usage` - Replies with the list of usage types
 - `usage <type>` - Basic usage info for "aprs", "sms" or "winlink"
 - `usage <type> <activity>` - Example message for your activity
 
 Example: `usage aprs sota` replies with: `EXAMPLE: "! SOTA VK3/VN-030 7.090 CQCQ"`
 
-**Getting Current SPOTs**
-
-`spots <activity>` - Returns recent SPOTS for POTA, SOTA, or WWFF
-
-Example: `spots POTA` would return:
-```
-K0DME | K-1210 | 14057.0 | CW
-N9FAL | K-2234 | 14287 | SSB  
-B3WAV | K-7724 | 14294 | SSB
-```
+**Getting Current SPOTs**  
+`spots <activity>` - Returns recent SPOTS for POTA, SOTA, or WWFF  
+Example: `spots POTA` would return recent spots like: `K0DME | K-1210 | 14057.0 | CW`
 
 **Filter Options**
 - Filter by mode: `spots pota cw`
 - Request more spots: `spots wwff 5`
 - Combine filters: `spots wwff ssb 5` (mode first)
 
-**Posting a SPOT**
-
+**Posting a SPOT**  
 Format: `! <Activity> <Ref> <Frequency In MHz> <Mode> <Comment(Optional)>`
 
 - **Activity**: WWFF, SOTA, POTA, SIOTA
@@ -102,12 +74,10 @@ Format: `! <Activity> <Ref> <Frequency In MHz> <Mode> <Comment(Optional)>`
 - **Mode**: SSB, CW, FM, AM, DATA (plus FT8 for POTA)
 - **Comment**: Optional (include "test" to prevent actual posting)
 
-Examples:
-- `! WWFF VKFF-1929 7.144 SSB CQCQ`
-- `! POTA VK-3024 7.195 SSB CQCQ`
+Examples: `! WWFF VKFF-1929 7.144 SSB CQCQ` or `! POTA VK-3024 7.195 SSB CQCQ`
 
-For APRS: Send to "APSPOT"
-For Winlink: Send to "apspot@apspot.radio" with command in subject
+For APRS: Send to "APSPOT"  
+For Winlink: Send to "apspot@apspot.radio" with command in subject  
 For SMS: Add your callsign after ! (no space): `!YOURCALL POTA ...`
 
 </details>
@@ -117,8 +87,7 @@ For SMS: Add your callsign after ! (no space): `!YOURCALL POTA ...`
 
 WXBOT provides current weather conditions and forecasts for locations worldwide.
 
-**Usage**
-
+**Usage**  
 Send a message to **WXBOT** with a location: `WXBOT <location>`
 
 **Examples:**
@@ -143,8 +112,7 @@ The bot will respond with formatted weather information for your requested locat
 
 The TIME bot provides current time information for various locations and time zones.
 
-**Usage**
-
+**Usage**  
 Send a message to **TIME** with a location or time zone: `TIME <location>`
 
 **Examples:**
@@ -162,8 +130,7 @@ The bot will respond with the current local time for the requested location.
 
 PING is a simple connectivity test bot that responds to confirm your APRS messaging is working properly.
 
-**Usage**
-
+**Usage**  
 Send any message to **PING** and it will respond back: `PING test`
 
 This is useful for testing your APRS setup and verifying message delivery.
@@ -175,8 +142,7 @@ This is useful for testing your APRS setup and verifying message delivery.
 
 The REPEAT bot finds information about amateur radio repeaters. Provide a location or grid square, and REPEAT will return details like frequencies, tones, and offsets for nearby repeaters.
 
-**Usage**
-
+**Usage**  
 Send a message to **REPEAT** with your location or grid square: `REPEAT <location>`
 
 **Example:** `REPEAT EM12`
@@ -188,8 +154,7 @@ Send a message to **REPEAT** with your location or grid square: `REPEAT <locatio
 
 The ISS bot provides the current location of the International Space Station, including its latitude, longitude, and altitude.
 
-**Usage**
-
+**Usage**  
 Send a message to **ISS** to get the latest position: `ISS`
 
 </details>
@@ -199,10 +164,8 @@ Send a message to **ISS** to get the latest position: `ISS`
 
 CQSRVR facilitates initial contact between amateur radio APRS stations worldwide with similar interests. It requires unique callsign-SSIDs.
 
-**Basic Usage**
-
-Send an APRS numbered message to CQSRVR: `CQ groupname your message here`
-
+**Basic Usage**  
+Send an APRS numbered message to CQSRVR: `CQ groupname your message here`  
 Example: `CQ MYTEST Listening for APRS contacts`
 
 This registers you with the group and sends your message to all group members.
@@ -212,10 +175,8 @@ This registers you with the group and sends your message to all group members.
 - Automatic unregistration after 12 hours of inactivity
 - Group dissolves if inactive for 12 hours
 
-**Unregistering from a Group**
-
-To leave a group: `U groupname`
-
+**Unregistering from a Group**  
+To leave a group: `U groupname`  
 Example: `U MYTEST`
 
 **Other Commands**
@@ -223,38 +184,28 @@ Example: `U MYTEST`
 - `? GROUPNAME` - Show member count for group
 - `L` - List all groups you're a member of
 
-**Example Traffic:**
-```
-AE5PL-10>APRS::CQSRVR   :CQ MYTEST Listening for APRS contacts{01
-CQSRVR>APJIC1,TCPIP*::AE5PL-10 :ack01
-CQSRVR>APJIC1,TCPIP*::AE5PL-10 :Message has been sent to MYTEST{00
-```
+**Example Traffic:**  
+`AE5PL-10>APRS::CQSRVR :CQ MYTEST Listening for APRS contacts{01`  
+`CQSRVR>APJIC1,TCPIP*::AE5PL-10 :ack01`  
+`CQSRVR>APJIC1,TCPIP*::AE5PL-10 :Message has been sent to MYTEST{00`
 
 </details>
 
 <details>
 <summary><strong>✉️ EMAIL - Email Gateway Services</strong></summary>
 
-**EMAIL Server (Basic)**
+**EMAIL Server (Basic)**  
+Send email via APRS by including the email address as the first word of your message (67 character limit): `email@address message text` sent to EMAIL
 
-Send email via APRS by including the email address as the first word of your message (67 character limit):
-
-`email@address message text` sent to EMAIL
-
-**EMAIL-2 (Enhanced Gateway)**
-
+**EMAIL-2 (Enhanced Gateway)**  
 EMAIL-2 supports shortcuts, UTF-8, delayed delivery, and Winlink integration.
 
-**Creating Shortcuts**
-
-Create a shortcut: Send `shortcut email@address` to EMAIL-2
-
+**Creating Shortcuts**  
+Create a shortcut: Send `shortcut email@address` to EMAIL-2  
 Example: `me urname@urdomain.bogus` sent to EMAIL-2
 
-**Using Shortcuts**
-
-Use your shortcut: Send `shortcut message text` to EMAIL-2
-
+**Using Shortcuts**  
+Use your shortcut: Send `shortcut message text` to EMAIL-2  
 Example: `me This is a test.` sent to EMAIL-2
 
 **Managing Shortcuts**
@@ -263,8 +214,7 @@ Example: `me This is a test.` sent to EMAIL-2
 
 Note: Shortcuts are callsign-specific and can only contain alphanumeric characters.
 
-**Email to APRS Support**
-
+**Email to APRS Support**  
 People can email you via your shortcuts if they know the format:
 
 **Email Requirements:**
@@ -272,20 +222,15 @@ People can email you via your shortcuts if they know the format:
 2. Subject: `CALLSIGN-SSID:message text`
 3. Body must contain: `userid:shortcut:`
 
-**Example Email:**
-```
-From: urname@urdomain.bogus
-To: EMAIL-2 address
-Subject: URCALL-10:Testing email to APRS
-Body: This is a test userid:me: of APRS email gateway.
-```
+**Example Email:**  
+From: `urname@urdomain.bogus`  
+To: EMAIL-2 address  
+Subject: `URCALL-10:Testing email to APRS`  
+Body: `This is a test userid:me: of APRS email gateway.`
 
-**Undelivered Message Caching**
-
-Retrieve cached unacknowledged messages: Send `get` to EMAIL-2
-
-The `?APRSM` query works the same as `get`.
-
+**Undelivered Message Caching**  
+Retrieve cached unacknowledged messages: Send `get` to EMAIL-2  
+The `?APRSM` query works the same as `get`.  
 EMAIL-2 caches messages for up to 24 hours.
 
 </details>
