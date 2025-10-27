@@ -5,7 +5,7 @@ menu:
 - {name: 'Works', url: ''}
 - {name: 'About',    url: 'about'}
 - {name: 'Blog',     url: 'blog'}
-- {name: 'GLSL',     url: 'grnchGLSL'}
+#- {name: 'GLSL',     url: 'grnchGLSL'}
 - {name: 'Music',    url: 'music'}
 - {name: 'Contact',  url: 'contact'}
 
@@ -14,7 +14,6 @@ menu:
 # Projects Section
 
 projects:
-#- {name: 'GLSL',     url: 'grnchGLSL'}
 - {name: 'Genuary 2024',   url: 'genuary'}
 - {name: 'Generative Art',   url: 'genart'}
 - {name: 'Pen Plotting',   url: 'plotting'}
@@ -23,6 +22,7 @@ projects:
 - {name: 'Projection Mapping',  url: 'mapping'}
 - {name: 'Digital Art',  url: 'digital'}
 - {name: 'Music',  url: 'music'}
+- {name: 'GLSL',     url: 'grnchGLSL'}
 
 #-------------------------------
 # Contact Section
