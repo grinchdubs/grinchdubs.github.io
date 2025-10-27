@@ -1,0 +1,22 @@
+---
+title: TD Tools
+layout: post
+---
+## TouchDesigner tools I've created
+
+### Hydra 2 TD 
+
+A complete system for running the Hydra live coding environment inside TouchDesigner with full bidirectional data flow, enabling new generative art workflows.
+
+Find it on [Github](https://github.com/grinchdubs/Hydra2TD-1.0)
+[Documentation](https://github.com/grinchdubs/Hydra2TD-1.0/tree/main/documentation) can be found here
+
+
+
+### PoST
+
+A comprehensive end-of-chain post-processing solution that eliminates the need for external video editing software. This all-in-one component provides professional-grade color grading and finishing tools directly within your TouchDesigner workflow.
+
+Find it on [Github](https://github.com/grinchdubs/PoST)
+[Documentation](https://github.com/grinchdubs/PoST/blob/main/README.md) can be found here
+
