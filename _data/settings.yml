@@ -22,7 +22,7 @@ projects:
 - {name: 'Projection Mapping',  url: 'mapping'}
 - {name: 'Digital Art',  url: 'digital'}
 - {name: 'Music',  url: 'music'}
-- {name: 'GLSL',     url: 'grnchGLSL'}
+- {name: 'GLSL',     url: 'https://grnch.xyz/grnchGLSL/'}
 
 #-------------------------------
 # Contact Section
