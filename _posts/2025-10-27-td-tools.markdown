@@ -15,6 +15,16 @@ Find it on [Github](https://github.com/grinchdubs/Hydra2TD-1.0)
 [Documentation](https://github.com/grinchdubs/Hydra2TD-1.0/tree/main/documentation) can be found here
 
 
+#### TD Copier Tools 
+
+![](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/refs/heads/main/TD_Tools/Screenshot%202025-10-29%20005020.png)
+
+Two powerful utilities for copying parameters and operators in TouchDesigner.
+
+Find it on [Github](https://github.com/grinchdubs/TD_Copier_Tools)
+
+[Documentation](https://github.com/grinchdubs/TD_Copier_Tools/blob/main/README.md) can be found here
+
 
 #### PoST
 
