@@ -2,7 +2,7 @@
 title: TD Tools
 layout: post
 ---
-## TouchDesigner tools I've created
+## GRNCH TouchDesigner tools
 
 #### Hydra 2 TD 
 
