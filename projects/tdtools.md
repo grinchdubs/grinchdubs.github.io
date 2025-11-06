@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'TD Tools'
+---
+
+#### Hydra 2 TD 
+
+![](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/refs/heads/main/TD_Tools/Screenshot%202025-10-27%20112332.png)
+
+A complete system for running the Hydra live coding environment inside TouchDesigner with full bidirectional data flow, enabling new generative art workflows.
+
+Find it on [Github](https://github.com/grinchdubs/Hydra2TD-1.0)
+
+[Documentation](https://github.com/grinchdubs/Hydra2TD-1.0/tree/main/documentation) can be found here
+
+
+#### TD Copier Tools 
+
+![](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/refs/heads/main/TD_Tools/Screenshot%202025-10-29%20005020.png)
+
+Two powerful utilities for copying parameters and operators in TouchDesigner.
+
+Find it on [Github](https://github.com/grinchdubs/TD_Copier_Tools)
+
+[Documentation](https://github.com/grinchdubs/TD_Copier_Tools/blob/main/README.md) can be found here
+
+
+#### PoST
+
+![](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/refs/heads/main/TD_Tools/Screenshot%202025-10-27%20133548.png)
+
+A comprehensive end-of-chain post-processing solution that eliminates the need for external video editing software. This all-in-one component provides professional-grade color grading and finishing tools directly within your TouchDesigner workflow.
+
+Find it on [Github](https://github.com/grinchdubs/PoST)
+
+[Documentation](https://github.com/grinchdubs/PoST/blob/main/README.md) can be found here
+
