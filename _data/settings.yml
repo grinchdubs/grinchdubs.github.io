@@ -14,6 +14,7 @@ menu:
 # Projects Section
 
 projects:
+- {name: 'TD Tools',   url: 'tdtools'}
 - {name: 'Genuary 2024',   url: 'genuary'}
 - {name: 'Generative Art',   url: 'genart'}
 - {name: 'Pen Plotting',   url: 'plotting'}
