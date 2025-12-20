@@ -4,6 +4,8 @@ title: 'Pen Plotting'
 ---
 
 The progression of pen plots and laser engravings by GRNCH
+## Sleeping Androids
+![](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/refs/heads/main/image3.jpg)
 
 ## Julia Xperiments
 ![](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/68c0db0d2fe7d4e55fda5e5b43480cd63d94ef25/PXL_20231110_045230973.PORTRAIT.ORIGINAL.jpg)
