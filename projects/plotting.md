@@ -13,6 +13,8 @@ title: 'Pen Plotting'
 
 ## Prints
 
+![prints/PXL_20251228_212242956.PORTRAIT.ORIGINAL.jpg](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/prints/PXL_20251228_212242956.PORTRAIT.ORIGINAL.jpg)
+
 ![prints/PXL_20251208_061202260.PORTRAIT.ORIGINAL.jpg](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/prints/PXL_20251208_061202260.PORTRAIT.ORIGINAL.jpg)
 
 ![prints/PXL_20251214_025305559.jpg](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/prints/PXL_20251214_025305559.jpg)
