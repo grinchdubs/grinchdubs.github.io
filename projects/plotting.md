@@ -4,11 +4,7 @@ title: 'Pen Plotting'
 ---
 ## Zines
 
-![zines/IMG_20251219_132405_944.webp](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/zines/IMG_20251219_132405_944.webp)
-
 ![zines/PXL_20251219_181725631.jpg](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/zines/PXL_20251219_181725631.jpg)
-
-![zines/PXL_20251219_181746245.jpg](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/zines/PXL_20251219_181746245.jpg)
 
 ![zines/PXL_20251219_182228369.jpg](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/zines/PXL_20251219_182228369.jpg)
 
@@ -19,19 +15,9 @@ title: 'Pen Plotting'
 
 ## Prints
 
-![prints/IMG_20251214_132043_296.webp](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/prints/IMG_20251214_132043_296.webp)
-
 ![prints/PXL_20251208_061202260.PORTRAIT.ORIGINAL.jpg](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/prints/PXL_20251208_061202260.PORTRAIT.ORIGINAL.jpg)
 
 ![prints/PXL_20251214_025305559.jpg](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/prints/PXL_20251214_025305559.jpg)
-
-![prints/PXL_20251228_212242956.PORTRAIT.ORIGINAL.jpg](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/prints/PXL_20251228_212242956.PORTRAIT.ORIGINAL.jpg)
-
-![prints/PXL_20251228_212247068.PORTRAIT.ORIGINAL.jpg](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/prints/PXL_20251228_212247068.PORTRAIT.ORIGINAL.jpg)
-
-![prints/PXL_20251228_212248325.PORTRAIT.ORIGINAL.jpg](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/prints/PXL_20251228_212248325.PORTRAIT.ORIGINAL.jpg)
-
-![prints/PXL_20251228_212249074.PORTRAIT.ORIGINAL.jpg](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/prints/PXL_20251228_212249074.PORTRAIT.ORIGINAL.jpg)
 
 
 ## Risograph
