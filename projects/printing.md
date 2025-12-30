@@ -7,17 +7,9 @@ title: 'Printing'
 
 ![risograph/PXL_20251204_025703732.PORTRAIT.ORIGINAL~2.jpg](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/risograph/PXL_20251204_025703732.PORTRAIT.ORIGINAL~2.jpg)
 
-![risograph/PXL_20251204_025935881.PORTRAIT.ORIGINAL.jpg](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/risograph/PXL_20251204_025935881.PORTRAIT.ORIGINAL.jpg)
-
-![risograph/PXL_20251204_025951374.PORTRAIT.ORIGINAL.jpg](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/risograph/PXL_20251204_025951374.PORTRAIT.ORIGINAL.jpg)
-
-![risograph/PXL_20251204_030017753.PORTRAIT.ORIGINAL.jpg](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/risograph/PXL_20251204_030017753.PORTRAIT.ORIGINAL.jpg)
-
 ![risograph/PXL_20251204_030019136.PORTRAIT.ORIGINAL~2.jpg](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/risograph/PXL_20251204_030019136.PORTRAIT.ORIGINAL~2.jpg)
 
 ![risograph/PXL_20251204_030306456.PORTRAIT.ORIGINAL.jpg](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/risograph/PXL_20251204_030306456.PORTRAIT.ORIGINAL.jpg)
-
-![risograph/PXL_20251218_011226336.PORTRAIT.ORIGINAL.jpg](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/risograph/PXL_20251218_011226336.PORTRAIT.ORIGINAL.jpg)
 
 ![risograph/PXL_20251218_011233868.PORTRAIT.ORIGINAL.jpg](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/risograph/PXL_20251218_011233868.PORTRAIT.ORIGINAL.jpg)
 
