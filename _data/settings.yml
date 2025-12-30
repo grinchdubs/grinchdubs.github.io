@@ -15,9 +15,10 @@ menu:
 
 projects:
 - {name: 'TD Tools',   url: 'tdtools'}
+- {name: 'Printing',   url: 'printing'}
+- {name: 'Pen Plotting',   url: 'plotting'}
 - {name: 'Genuary 2024',   url: 'genuary'}
 - {name: 'Generative Art',   url: 'genart'}
-- {name: 'Pen Plotting',   url: 'plotting'}
 - {name: 'LEDs', url: 'leds'}
 - {name: 'Textures',  url: 'textures'}
 - {name: 'Projection Mapping',  url: 'mapping'}
