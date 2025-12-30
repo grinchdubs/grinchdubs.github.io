@@ -22,11 +22,17 @@ title: 'Printing'
 
 ## Zines
 
+![zines/PXL_20251227_042514259.jpg](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/zines/PXL_20251227_042514259.jpg)
+
+![zines/PXL_20251227_042520157.jpg](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/zines/PXL_20251227_042520157.jpg)
+
+![zines/PXL_20251228_171002868.jpg](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/zines/PXL_20251228_171002868.jpg)
+
 ![zines/PXL_20251219_182228369.jpg](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/zines/PXL_20251219_182228369.jpg)
 
 ![zines/PXL_20251226_171629130.jpg](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/zines/PXL_20251226_171629130.jpg)
 
-![zines/PXL_20251228_171002868.jpg](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/zines/PXL_20251228_171002868.jpg)
+
 
 
 ## Prints
