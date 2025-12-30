@@ -2,6 +2,7 @@
 layout: post
 title: 'Printing'
 ---
+
 ## Risograph
 
 ![risograph/IMG_20251129_210455_337.jpg](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/risograph/IMG_20251129_210455_337.jpg)
