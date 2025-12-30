@@ -4,8 +4,6 @@ title: 'Pen Plotting'
 ---
 ## Zines
 
-![zines/PXL_20251219_181725631.jpg](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/zines/PXL_20251219_181725631.jpg)
-
 ![zines/PXL_20251219_182228369.jpg](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/zines/PXL_20251219_182228369.jpg)
 
 ![zines/PXL_20251226_171629130.jpg](https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/zines/PXL_20251226_171629130.jpg)
