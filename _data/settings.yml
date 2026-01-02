@@ -7,6 +7,7 @@ menu:
 - {name: 'Blog',     url: 'blog'}
 #- {name: 'GLSL',     url: 'grnchGLSL'}
 - {name: 'Music',    url: 'music'}
+- {name: 'Shop',     url: 'https://grnch.bigcartel.com'}
 - {name: 'Contact',  url: 'contact'}
 - {name: 'Shop',   url: 'https://grnch.bigcartel.com'}
 
