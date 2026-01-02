@@ -8,7 +8,7 @@ menu:
 #- {name: 'GLSL',     url: 'grnchGLSL'}
 - {name: 'Music',    url: 'music'}
 - {name: 'Contact',  url: 'contact'}
-- {name: 'Shop',   link: 'https://grnch.bigcartel.com'}
+- {name: 'Shop',   url: 'https://grnch.bigcartel.com'}
 
 
 #-------------------------------
