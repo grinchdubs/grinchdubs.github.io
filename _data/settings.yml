@@ -5,9 +5,9 @@ menu:
 - {name: 'Works', url: ''}
 - {name: 'About',    url: 'about'}
 - {name: 'Blog',     url: 'blog'}
+- {name: 'Shop',   url: 'https://grnch.bigcartel.com'}
 #- {name: 'GLSL',     url: 'grnchGLSL'}
 - {name: 'Music',    url: 'music'}
-- {name: 'Shop',     url: 'https://grnch.bigcartel.com'}
 - {name: 'Contact',  url: 'contact'}
 
 
@@ -16,9 +16,10 @@ menu:
 
 projects:
 - {name: 'TD Tools',   url: 'tdtools'}
+- {name: 'Printing',   url: 'printing'}
+- {name: 'Pen Plotting',   url: 'plotting'}
 - {name: 'Genuary 2024',   url: 'genuary'}
 - {name: 'Generative Art',   url: 'genart'}
-- {name: 'Pen Plotting',   url: 'plotting'}
 - {name: 'LEDs', url: 'leds'}
 - {name: 'Textures',  url: 'textures'}
 - {name: 'Projection Mapping',  url: 'mapping'}
@@ -31,9 +32,9 @@ projects:
 
 social:
 - {icon: 'instagram', link: 'https://instagram.com/grnchdubs'}
-- {icon: 'github',    link: 'https://github.com/grinchdubs'}
-- {icon: 'twitter',   link: 'https://twitter.com/grnchdubs'}
 - {icon: 'substack',  link: 'https://grnch.substack.com'}
+- {icon: 'github',    link: 'https://github.com/grinchdubs'}
+# - {icon: 'twitter',   link: 'https://twitter.com/grnchdubs'}
 - {icon: 'linktree',  link: 'https://linktr.ee/grnch'}
 - {icon: 'envelope',  link: 'mailto:grnch@grnch.xyz'}
 
