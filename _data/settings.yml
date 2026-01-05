@@ -34,7 +34,7 @@ social:
 - {icon: 'github',    link: 'https://github.com/grinchdubs'}
 - {icon: 'twitter',   link: 'https://twitter.com/grnchdubs'}
 - {icon: 'substack',  link: 'https://grnch.substack.com'}
-- {icon: 'linkedin',  link: 'https://linktr.ee/grnch'}
+- {icon: 'linktree',  link: 'https://linktr.ee/grnch'}
 - {icon: 'envelope',  link: 'mailto:grnch@grnch.xyz'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'

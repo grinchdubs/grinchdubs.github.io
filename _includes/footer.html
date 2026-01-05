@@ -9,6 +9,8 @@
           <a href="{{ item.link }}" target="_blank">
             {% if item.icon == 'substack' %}
               <svg class="substack-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 448 448" fill="currentColor"><path d="M0 0h448v62.79H0V0zm0 229.08h448v218.92L223.69 344.77 0 448V229.08zM0 114.49h448v62.79H0v-62.79z"/></svg>
+            {% elsif item.icon == 'linktree' %}
+              <svg class="linktree-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="m13.73635 5.85251 4.00467-4.11665 2.1088 2.13167-4.00468 4.11665-2.10879-2.13167zm-3.47269 0L6.26265 1.73586l-2.1088 2.13166 4.00467 4.11666 2.10879-2.13167zM10.5 21.5v-9h3v9h-3zm.5-14a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/><path d="M12 21.5a.5.5 0 0 1-.5-.5v-9a.5.5 0 0 1 .5-.5h.5v10h-.5z"/></svg>
             {% else %}
               <i class="fa fa-{{ item.icon }}" aria-hidden="true"></i>
             {% endif %}
