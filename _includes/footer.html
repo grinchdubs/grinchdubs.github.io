@@ -11,7 +11,7 @@
               <svg class="substack-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 448 448" fill="currentColor"><path d="M0 0h448v62.79H0V0zm0 229.08h448v218.92L223.69 344.77 0 448V229.08zM0 114.49h448v62.79H0v-62.79z"/></svg>
             {% else %}
               {% if item.icon == 'linktree' %}
-                <svg class="linktree-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="5" r="1.5"/><circle cx="6" cy="13" r="1.5"/><circle cx="18" cy="13" r="1.5"/><path d="M12 6.5v6M12 12.5L6.7 11.7M12 12.5l5.3-.8M12 12.5v7.5" stroke="currentColor" stroke-width="1.5" fill="none"/></svg>
+                <svg class="linktree-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><rect x="10.5" y="0" width="3" height="24"/><rect x="0" y="10.5" width="24" height="3"/><rect x="3.7" y="3.7" width="3" height="16.6" transform="rotate(45 12 12)"/><rect x="3.7" y="3.7" width="3" height="16.6" transform="rotate(-45 12 12)"/></svg>
               {% else %}
                 <i class="fa fa-{{ item.icon }}" aria-hidden="true"></i>
               {% endif %}
