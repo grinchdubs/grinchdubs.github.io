@@ -9,7 +9,9 @@ permalink: /about
 
 ![AboutMe](https://raw.githubusercontent.com/grinchdubs/grnch.xyz/refs/heads/main/assets/img/about/AboutMe.jpg)
 
-Woody Poulard (aka GRNCH) is a Brooklyn-based artist/musician of Haitian descent whose work focuses on generative audio-reactive visual installations and performances. He uses creative coding applications like Touchdesigner to generate real-time visuals, Blender for 3D design, and Ableton for music production. Trained in both audio and mechanical engineering, Woody also makes physical sculptures using digital fabrication techniques like 3D printing, laser cutting, and CNC routing. GRNCH's visuals use elements of abstract, futuristic, and hypnotic scenery, often paired with his signature sound: dark, cinematic, suspenseful techno and broken beat.
+Woody Poulard is an artist/musician of Haitian descent who creates audio-reactive visual installations, generative art, and sculptural works alongside lifelong instrumental practice in saxophone and percussion. His visual practice spans digital and physical mediums including pen plotting, risograph printing, and poster design, creating tangible artifacts from algorithmic and generative processes.
+Based in New York City, Woody runs his own electronic music label, GRNCH Productions, focusing on deep, dark, cinematic techno and brokenbeat. His multidisciplinary approach bridges sound and visual art, creating atmospheric experiences that evolve from abstract and strange beginnings into futuristic, hypnotizing environments.
+GRNCH's work draws inspiration from visual artists Clayton Welham, Sam Williams, Monolake, Ryoji Ikeda, and Alex Rutterford. Since 2014, he has performed internationally, including projection mapping performances and audio-visual shows as far as Belgrade, Serbia. His practice continues to explore the intersection of sound, visual art, and physical media through both live performance and studio work.
 
 # EDUCATION
 
