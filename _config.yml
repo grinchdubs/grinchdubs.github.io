@@ -1,5 +1,7 @@
 # Build settings
 
+url: "https://grnch.xyz"
+baseurl: ""
 port: 8080
 markdown:  kramdown
 permalink: /:title
