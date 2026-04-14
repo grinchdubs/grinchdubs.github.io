@@ -135,7 +135,6 @@ gallery: true
 <a href="https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/prints/PXL_20251231_054144456.PORTRAIT.ORIGINAL.jpg" class="gallery-item glightbox" data-gallery="prints" data-type="image"><img src="https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/prints/PXL_20251231_054144456.PORTRAIT.ORIGINAL.jpg" loading="lazy" alt=""></a>
 </div>
 
-
 ## Cyanotypes
 
 <div class="photo-gallery">
