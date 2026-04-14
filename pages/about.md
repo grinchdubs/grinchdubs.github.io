@@ -17,44 +17,34 @@ GRNCH's work draws inspiration from visual artists Clayton Welham, Sam Williams,
 
 # EDUCATION
 
-2026 Decoding tendencies in Live coding: Exploring notational systems and Algorithmic performance, SFPC, Brooklyn, NY
-
+**2026 Decoding tendencies in Live coding: Exploring notational systems and Algorithmic performance, SFPC, Brooklyn, NY**
 ##### Live Coding workshop
 
-2026 Image Making on Letterpress #1: Photopolymer Crash Course, Center for Book Arts
-
+**2026 Image Making on Letterpress #1: Photopolymer Crash Course, Center for Book Arts**
 ##### Drum leaf binding workshop
 
-2026 Hands on Riso, Center for Book Arts
-
+**2026 Hands on Riso, Center for Book Arts**
 ##### Risograph printer workshop
 
-2026 Drum Leaf Binding and Its Precedents, Center for Book Arts
-
+**2026 Drum Leaf Binding and Its Precedents, Center for Book Arts**
 ##### Drum leaf binding workshop
 
-2025 Riso 101, Secret Riso Club, Brooklyn, NY
-
+**2025 Riso 101, Secret Riso Club, Brooklyn, NY**
 ##### Riso printing 101 workshop
 
-2024 Making Live Visuals with Code!, Brooklyn, NY
-
+**2024 Making Live Visuals with Code!, Brooklyn, NY**
 ##### Hydra video synth workshop
 
-2018 GLSL Shaders in TouchDesigner, Brooklyn, NY
-
+**2018 GLSL Shaders in TouchDesigner, Brooklyn, NY**
 ##### GLSL shader workshop
 
-2014 Mappathon, New York, NY
-
+**2014 Mappathon, New York, NY**
 ##### 3D Projection mapping workshop
 
-2012 SAE Institute, New York, NY
-
+**2012 SAE Institute, New York, NY**
 ##### Diploma in Audio Technology Program
 
-2009 University of New Haven, West Haven, CT
-
+**2009 University of New Haven, West Haven, CT**
 ##### Mechanical Engineering, Bachelor of Science
 
 # EXHIBITION
