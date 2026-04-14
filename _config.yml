@@ -9,7 +9,7 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:		   "GRNCH.xyz"
+title:		   "GRNCH"
 tagline:     "Creator of Things"
 description: "GRNCH Audio/Visual Artist Portfolio"
 author:      "Woody Poulard"

@@ -2,7 +2,7 @@
 ---
 
 <!DOCTYPE html>
-<html class="">
+<html class="{% if page.gallery %}gallery-page{% endif %}">
   <head>
     <meta charset="UTF-8">
     <meta name="apple-mobile-web-app-capable" content="yes">
@@ -18,6 +18,9 @@
       {% endif %}
     </title>
     <link rel="stylesheet" href="{{ site.github.url }}/assets/css/all.css">
+    {% if page.gallery %}
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css">
+    {% endif %}
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
@@ -33,10 +36,27 @@
   <body>
     <div class="site-container">
       {% include header.html %}
-      {{ content }}
-      {% include footer.html %}
+      <div class="main-content">
+        {{ content }}
+        {% include footer.html %}
+      </div>
     </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script>
+      var worksToggle = document.getElementById('works-toggle');
+      if (worksToggle) {
+        worksToggle.querySelector('.toggle-link').addEventListener('click', function(e) {
+          e.preventDefault();
+          worksToggle.classList.toggle('expanded');
+        });
+      }
+    </script>
+    {% if page.gallery %}
+    <script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+    <script>
+      GLightbox({ selector: '.glightbox' });
+    </script>
+    {% endif %}
     <script type="module">
       import { VFX } from 'https://cdn.jsdelivr.net/npm/@vfx-js/core/dist/vfx.esm.js';
 
@@ -74,7 +94,7 @@
       });
 
       // Add rainbow effect to social icons on hover
-      const socialLinks = document.querySelectorAll('.social-media a');
+      const socialLinks = document.querySelectorAll('.sidebar-social a');
       socialLinks.forEach(link => {
         let linkEffect = null;
         link.addEventListener('mouseenter', () => {

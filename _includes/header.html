@@ -3,6 +3,25 @@
     <a href="{{ site.github.url }}/">{{ site.title }}</a>
   </div>
   <nav>
-    {% for item in site.data.settings.menu %}{% if item.url contains 'http' %}<a href="{{ item.url }}">{{ item.name }}</a>{% else %}<a href="{{ site.github.url }}/{{ item.url }}">{{ item.name }}</a>{% endif %}{% endfor %}
+    <div class="nav-toggle" id="works-toggle">
+      <a href="{{ site.github.url }}/" class="toggle-link">Works <span class="toggle-arrow">▾</span></a>
+      <div class="sub-nav">
+        {% for project in site.data.settings.projects %}
+          <a href="{{ site.github.url }}/projects/{{ project.url }}">{{ project.name }}</a>
+        {% endfor %}
+      </div>
+    </div>
+    {% for item in site.data.settings.menu %}{% unless item.name == 'Works' %}{% if item.url contains 'http' %}<a href="{{ item.url }}">{{ item.name }}</a>{% else %}<a href="{{ site.github.url }}/{{ item.url }}">{{ item.name }}</a>{% endif %}{% endunless %}{% endfor %}
   </nav>
+  <div class="sidebar-social">
+    {% for item in site.data.settings.social %}
+      <a href="{{ item.link }}" target="_blank">
+        {% if item.icon == 'substack' %}
+          <svg class="substack-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 448 448" fill="currentColor"><path d="M0 0h448v62.79H0V0zm0 229.08h448v218.92L223.69 344.77 0 448V229.08zM0 114.49h448v62.79H0v-62.79z"/></svg>
+        {% else %}
+          <i class="fa fa-{{ item.icon }}" aria-hidden="true"></i>
+        {% endif %}
+      </a>
+    {% endfor %}
+  </div>
 </header>

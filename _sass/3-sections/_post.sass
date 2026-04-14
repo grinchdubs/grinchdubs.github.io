@@ -1,8 +1,11 @@
 .post-container
   max-width: 600px
+  &.gallery-page
+    max-width: 1400px
   margin: 0px auto 30px
   position: relative
   display: block
+  text-align: center
   h4
     color: black
     line-height: 1.2
@@ -22,3 +25,25 @@
     +position(absolute, -3px null null -35px)
   .loading
     text-align: center
+
+
+.photo-gallery
+  margin: 16px 0
+  display: flex
+  flex-wrap: wrap
+  justify-content: center
+  gap: 16px
+  .gallery-sizer
+    display: none
+  .gallery-item
+    width: calc(50% - 8px)
+    @media (max-width: 420px)
+      width: 100%
+    display: block
+    overflow: hidden
+    img
+      width: 100%
+      display: block
+      transition: opacity 0.2s
+    &:hover img
+      opacity: 0.75

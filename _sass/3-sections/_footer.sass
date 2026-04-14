@@ -11,6 +11,7 @@ footer
         size: 24px
         weight: 700
     .social-media
+      display: none
       text-align: center
       nav
         margin: 0px
@@ -28,3 +29,9 @@ footer
             height: 20px
             vertical-align: middle
             display: inline-block
+
+@media (max-width: 768px)
+  footer
+    .footer-wrap
+      .social-media
+        display: block

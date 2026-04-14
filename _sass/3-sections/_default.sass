@@ -1,14 +1,39 @@
+html
+  background: white url("https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/refs/heads/main/bg2.png") no-repeat center / cover fixed
+
 body
-  background: white
-  background-image: url("https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/refs/heads/main/bg2.png")
-  background-repeat: no-repeat
-  background-size: cover  
+  background: transparent
+  height: 100vh
+  overflow: hidden
   font-family: 'Roboto', sans-serif
-  font-size: 16px
+  font-size: 18px
+
 .site-container
-  width: 750px
-  margin: auto
+  display: flex
+  flex-direction: row
+  height: 100vh
+
+.main-content
+  flex: 1
+  min-width: 0
+  height: 100vh
+  overflow-y: auto
+  display: flex
+  flex-direction: column
+  align-items: center
+  text-align: center
+  section
+    background: transparent
+    padding-bottom: 0
+    width: 100%
 
 @media (max-width: 768px)
+  body
+    height: auto
+    overflow: visible
   .site-container
-    width: 95vw
+    flex-direction: column
+    height: auto
+  .main-content
+    height: auto
+    overflow-y: visible
