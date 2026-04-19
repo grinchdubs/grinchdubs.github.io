@@ -55,56 +55,13 @@
       GLightbox({ selector: '.glightbox' });
     </script>
     {% endif %}
-    <script type="module">
-      import { VFX } from 'https://cdn.jsdelivr.net/npm/@vfx-js/core/dist/vfx.esm.js';
-
-      // Initialize VFX
-      const vfx = new VFX();
-
-      // Add glitch effect to logo on hover
-      const logo = document.querySelector('.logo a');
-      if (logo) {
-        let logoEffect = null;
-        logo.addEventListener('mouseenter', () => {
-          logoEffect = vfx.add(logo, { shader: 'glitch', overflow: 50 });
-        });
-        logo.addEventListener('mouseleave', () => {
-          if (logoEffect) {
-            vfx.remove(logoEffect);
-            logoEffect = null;
-          }
-        });
-      }
-
-      // Add subtle RGB shift to project items on hover
-      const projectItems = document.querySelectorAll('.project-unit');
-      projectItems.forEach(item => {
-        let itemEffect = null;
-        item.addEventListener('mouseenter', () => {
-          itemEffect = vfx.add(item, { shader: 'rgbShift', overflow: 20 });
-        });
-        item.addEventListener('mouseleave', () => {
-          if (itemEffect) {
-            vfx.remove(itemEffect);
-            itemEffect = null;
-          }
-        });
-      });
-
-      // Add rainbow effect to social icons on hover
-      const socialLinks = document.querySelectorAll('.sidebar-social a');
-      socialLinks.forEach(link => {
-        let linkEffect = null;
-        link.addEventListener('mouseenter', () => {
-          linkEffect = vfx.add(link, { shader: 'rainbow', overflow: 30 });
-        });
-        link.addEventListener('mouseleave', () => {
-          if (linkEffect) {
-            vfx.remove(linkEffect);
-            linkEffect = null;
-          }
-        });
-      });
-    </script>
+    <style>
+      .logo a { transition: letter-spacing 0.15s, opacity 0.15s; }
+      .logo a:hover { letter-spacing: 3px; opacity: 0.7; }
+      .project-unit { transition: filter 0.2s; }
+      .project-unit:hover { filter: hue-rotate(15deg) saturate(1.3); }
+      .sidebar-social a { transition: filter 0.3s; }
+      .sidebar-social a:hover { filter: hue-rotate(90deg) saturate(2); }
+    </style>
   </body>
 </html>
