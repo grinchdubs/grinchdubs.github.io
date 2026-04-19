@@ -16,6 +16,7 @@ menu:
 
 projects:
 - {name: 'TD Tools',   url: 'tdtools'}
+- {name: 'Exhibitions', url: 'exhibitions'}
 - {name: 'Printing',   url: 'printing'}
 - {name: 'Pen Plotting',   url: 'plotting'}
 - {name: 'Genuary 2024',   url: 'genuary'}
