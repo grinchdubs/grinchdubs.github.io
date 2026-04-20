@@ -49,6 +49,9 @@ GRNCH's work draws inspiration from visual artists Clayton Welham, Sam Williams,
 
 # EXHIBITION
 
+**2026 Repair Exhibition, Group**
+*Temple University, Philadelphia, PA*
+
 **2024 RedHook Open Studios, Group**
 *Feinberg Studios, Brooklyn, NY*
 
