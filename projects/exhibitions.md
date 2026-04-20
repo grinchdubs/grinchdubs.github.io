@@ -8,6 +8,7 @@ gallery: true
 
 <div class="photo-gallery">
 <div class="gallery-sizer"></div>
+<a href="https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/exhibition/IBG_9406.jpg" class="gallery-item glightbox" data-gallery="exhibitions" data-type="image"><img src="https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/exhibition/IBG_9406.jpg" loading="lazy" alt=""></a>
 <a href="https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/exhibition/PXL_20260412_221622438.MP.jpg" class="gallery-item glightbox" data-gallery="exhibitions" data-type="image"><img src="https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/exhibition/PXL_20260412_221622438.MP.jpg" loading="lazy" alt=""></a>
 <a href="https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/exhibition/PXL_20260412_214146612.PORTRAIT.ORIGINAL.jpg" class="gallery-item glightbox" data-gallery="exhibitions" data-type="image"><img src="https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/exhibition/PXL_20260412_214146612.PORTRAIT.ORIGINAL.jpg" loading="lazy" alt=""></a>
 <a href="https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/exhibition/PXL_20260412_203355107.PORTRAIT.jpg" class="gallery-item glightbox" data-gallery="exhibitions" data-type="image"><img src="https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/main/exhibition/PXL_20260412_203355107.PORTRAIT.jpg" loading="lazy" alt=""></a>
