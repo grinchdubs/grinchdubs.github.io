@@ -8,7 +8,7 @@
 
 # Key and scale -----------------------------------------------------------
 
-root: "D2"            # note + octave the drone sits on, e.g. C2, D#2, F1, A1 (default D2)
+root: "C2"            # note + octave the drone sits on, e.g. C2, D#2, F1, A1 (default D2)
 
 # Scale the bells and key changes use. Either a name below, or your own list of
 # semitones above the root, e.g. [0, 1, 5, 7, 8].
@@ -24,7 +24,7 @@ scale: hirajoshi
 # Which scale step each fractal preset (1-4) moves the drone to. 0 = the root.
 preset_steps: [0, 2, 3, 4]
 
-tempo: 122            # BPM. Paces the bells and the pulse (default 122)
+tempo: 140            # BPM. Paces the bells and the pulse (default 122)
 
 # Drone ------------------------------------------------------------------
 
@@ -63,7 +63,7 @@ bells:
 # Pulse: an optional low techno thump on the beat ---------------------------
 
 pulse:
-  on: false           # (default false)
+  on: true           # (default false)
   volume: 0.35        # (default 0.35)
   every_beats: 1      # 1 = four on the floor, 2 = half time (default 1)
   pitch: 52           # Hz the thump starts at before it drops (default 52)
