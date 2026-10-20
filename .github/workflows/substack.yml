@@ -1,0 +1,28 @@
+# Refreshes _data/substack.json from the Substack feed once a day and commits it when it changed.
+name: Sync Substack posts
+
+on:
+  schedule:
+    - cron: "17 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node _scripts/fetch-substack.mjs
+      - name: Commit if changed
+        run: |
+          git add _data/substack.json
+          if git diff --cached --quiet; then echo "no new posts"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Sync Substack posts"
+          git push

@@ -2,16 +2,32 @@
 layout: default
 ---
 
+{% comment %} Site posts and Substack posts (_data/substack.json) merged newest first via sortable "date|kind|index" keys. {% endcomment %}
+{% capture keys %}{% for post in site.posts %}{{ post.date | date: "%Y-%m-%d" }}|p|{{ forloop.index0 }},{% endfor %}{% for s in site.data.substack %}{{ s.date | slice: 0, 10 }}|s|{{ forloop.index0 }},{% endfor %}{% endcapture %}
+{% assign keys = keys | split: "," | sort | reverse %}
+
 <article class="sheet">
   <header class="sheet-head"><h1 class="sheet-title">Writing</h1></header>
-  <ol class="ledger ledger-plain">
-    {% for post in site.posts %}
+  <ol class="ledger ledger-plain ledger-thumbs">
+    {% for key in keys %}{% if key != "" %}
+    {% assign bits = key | split: "|" %}{% assign i = bits[2] | plus: 0 %}
+    {% if bits[1] == "p" %}{% assign post = site.posts[i] %}
     <li>
       <a class="ledger-row" href="{{ site.github.url }}{{ post.url }}">
+        <span class="ledger-thumb">{% if post.image %}<img src="{{ post.image }}" alt="" loading="lazy">{% endif %}</span>
         <span class="ledger-name">{{ post.title }}</span>
         <time class="ledger-blurb" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %B %Y" }}</time>
       </a>
     </li>
-    {% endfor %}
+    {% else %}{% assign s = site.data.substack[i] %}
+    <li>
+      <a class="ledger-row" href="{{ s.url }}" rel="noopener">
+        <span class="ledger-thumb">{% if s.thumb %}<img src="{{ s.thumb }}" alt="" loading="lazy">{% endif %}</span>
+        <span class="ledger-name">{{ s.title }}</span>
+        <span class="ledger-blurb"><time datetime="{{ s.date }}">{{ s.date | date: "%-d %B %Y" }}</time> · on Substack</span>
+      </a>
+    </li>
+    {% endif %}
+    {% endif %}{% endfor %}
   </ol>
 </article>

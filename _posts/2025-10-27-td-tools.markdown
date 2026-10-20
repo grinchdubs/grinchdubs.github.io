@@ -1,6 +1,7 @@
 ---
 title: TD Tools
 layout: post
+image: https://raw.githubusercontent.com/grinchdubs/grnch.xyz_photos/refs/heads/main/TD_Tools/Screenshot%202025-10-27%20112332.png
 ---
 ## GRNCH TouchDesigner tools
 
